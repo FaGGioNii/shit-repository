@@ -1,0 +1,83 @@
+* {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    width: 1002.34px;
+    padding: 11.137px 100.234px;
+    color: #4D4D4D;
+}
+.botao1 {
+    border-radius: 2.784px;
+    background: var(--Brand-Primary, #4CAF4F);
+    font-weight: 500;
+    line-height: 16.706px;
+    color: var(--Neutral-White, #FFF);
+    padding: 9px 10px;
+}
+
+.link-header {
+    padding: 11.1px 17px 11.1px 43.9px;
+    align-items: center;
+    border: 5.57;
+    cursor: pointer;
+}
+
+.nexcent-logo {
+    width: 77.605px;
+    height: 14.382px;
+}
+
+.ilustraçao {
+    width: 272.163px;
+    height: 283.3px;
+    margin-top: 62.82px;
+    margin-left: 72.39px;
+    margin-right: 100px;
+    margin-bottom: 62.82;
+    display: inline-block;
+
+}
+
+.div1 {
+    padding: 66.823px 100.234px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 44.548px;
+    font-weight: 600;
+    line-height: 52.901px;
+    color: var(--Neutral-D_Grey, #4D4D4D);
+}
+h2 {
+    font-size: 44.548px;
+    font-weight: 600;
+    line-height: 52.901px;
+    color: var(--Brand-Primary, #4CAF4F);
+}
+p {
+    font-size: 11.137px;
+    font-weight: 400;
+    line-height: 16.706px;
+    color: var(--Neutral-Grey, #717171);
+}
+
+.botao2 {
+    color: var(--Neutral-White, #FFF);
+    text-align: center;
+    font-size: 11.137px;
+    font-weight: 500;
+    line-height: 16.706px;
+    padding: 9.74px 22px;
+    border-radius: 2.784px;
+    background: var(--Brand-Primary, #4CAF4F);
+}
+
+.div2 {
+    width: 272.163px;
+    height: 283.3px;
+    display: inline-block;
+}
